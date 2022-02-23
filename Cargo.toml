@@ -1,0 +1,9 @@
+[package]
+name = "pi_idtree_old"
+version = "0.1.0"
+authors = ["zmythleo <zmythleo@gmail.com>"]
+
+[dependencies]
+pi_map = {path="../pi_map"}
+log="*"
+
